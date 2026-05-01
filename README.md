@@ -94,21 +94,3 @@ The author thanks Professors Peter Rowlands and Jean-Pierre Petit for their foun
 For inquiries, please contact the author via [ORCID](https://orcid.org/0009-0009-0380-3056).
 EOF
 ```
-
-## Commit et push
-
-```bash
-git add README.md
-git rm README_old.md  # si vous avez fait la sauvegarde
-git commit -m "Replace README with correct description of WuXing Cl(6,6) article"
-git push origin main
-```
-
-## Vérification
-
-```bash
-# Voir le nouveau README
-cat README.md | head -20
-```
-
-Le README est maintenant cohérent avec votre dépôt.
