@@ -59,6 +59,58 @@ bibliography: references.bib
 csl: ieee.csl
 ---
 
+# 0. From West to East
+
+## Introduction: A Shift in Perspective – From Substance to Relation
+
+For over two millennia, Western thought, heir to Aristotle, has been built around a central question: **what is a thing "in itself"?** Whether through substance, essence, the atom, or the elementary particle, Western physics and metaphysics have sought to isolate fundamental entities endowed with intrinsic properties, existing by themselves, independently of their environment or relations.
+
+In contrast, the philosophies of East Asia – Taoism, Confucianism, Buddhism – have often privileged another intuition: **nothing exists by itself**; every "thing" is merely a temporary knot in a fabric of relations. Reality there is not a collection of objects, but a network of processes, interdependencies, and transformations. The *Dao* is not a thing, but the way in which things hold together.
+
+The present article, although written in the formal language of contemporary physics – Clifford algebras, gauge theories, bimetric cosmology – belongs to this second tradition. It does not start from the question: "What is the ultimate particle?", but from: **"What stable relations can emerge from a pre-geometric network?"**
+
+### From the Point to the Network: A Relational Refoundation of Physics
+
+The central hypothesis of this work is that spacetime, mass, charge, spin, and even cosmic expansion are not primitive properties, but **emergent properties of stable angular configurations** within a relational algebraic structure: the Clifford algebra $\mathrm{Cl}(6,6)$.
+
+Far from the standard model where quantum fields oscillate on a fixed spacetime stage, we propose here a **relational substrate** where:
+
+- elementary objects (particles) are **pentads** – sets of five algebraic orientations,
+- interactions are not exchanges of virtual bosons but **angular rearrangements** governed by a transition operator $T$,
+- the vacuum is not a neutral state but an **active partner** (a negative-mass sector) coupling each particle to its virtual image,
+- three-dimensional space emerges **statistically** from the impossibility for two pentads to share the same orientation (native exclusion principle).
+
+### An Unprecedented Synthesis: Rowlands, Petit, Nebe
+
+This relational physics concretizes a triple encounter, previously considered heterodox:
+
+- **Peter Rowlands** (nilpotent algebra) shows that the Dirac equation, spin 1/2, and renormalization follow from a single condition: $(g\cdot x)^2 = 0$.
+- **Jean-Pierre Petit** (Janus cosmology) describes a universe with two sectors – positive and negative masses – producing accelerated expansion and dark matter without ad hoc constants.
+- **Gabriele Nebe** (lattice $\Lambda_{72}$) provides a discrete 72-dimensional space whose eigenvalues numerically encode particle masses.
+
+In our approach, these three frameworks are not competing theories, but **the three orthogonal projections of a single relational invariant**: that of the 144 nilpotent pentads of $\mathrm{Cl}(6,6)$.
+
+### A Physics without "Thing in Itself", Testable
+
+This ontological reversal is not a mere philosophical statement. It yields **quantitative predictions**:
+
+- the masses of the pion, kaon, proton, muon, $W, Z, H$ bosons, and the 200 MeV magnetar resonance are reproduced with deviations often below 0.2%,
+- a redshift $z = 2$ is predicted for hypermassive objects like $M87^*$ and Sgr A*,
+- annular dimming of light around large cosmic voids (negative gravitational lensing) is expected,
+- a quadratic dependence $E_{\text{res}} \propto B^2$ for magnetars is predicted, testable immediately with Fermi-LAT data.
+
+### An Epistemology of Connection
+
+Finally, this article embraces an epistemological dimension rare in contemporary physics: it acknowledges that the **relational invariants** it formalizes today were glimpsed, by other means, in ancient traditions – the Yi Jing, the Wu Xing, the Sefer Yetzirah. Not because those traditions "contained" modern physics, but because any form of thought constrained by the need to reduce combinatorial complexity to stable functional classes encounters analogous structures.
+
+This is not a return to the past. It is an expansion of our conception of rationality: **physics is not condemned to the atom or the particle; it can choose relation as a primitive.**
+
+Thus, the reader will find in the following pages not yet another theory wedded to the Western paradigm of the "thing in itself", but **an attempt to refound physics on a relational philosophy** – closer to Buddhist *pratītyasamutpāda* or Taoist *Dao* than to Aristotelian *ousia*. The mathematical tools (Clifford algebras, lattices, nilpotence) are Western; the spirit of the approach – seeing the world as a fabric of angles, cycles, and relations – is universal, but finds its deepest roots in the East.
+
+Welcome to a physics where **we no longer say what a thing is, but how it connects.**
+
+---
+
 # 1. Introduction & Unified Pre-Geometric Framework
 
 ## 1.1 Beyond fields and fixed spacetime background
